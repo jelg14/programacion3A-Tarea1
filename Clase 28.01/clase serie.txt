@@ -1,0 +1,14 @@
+series.
+->NOMBRE
+->GENERO
+->PERSONAJES
+ ->sexo, edad, nombre,apellido
+ ->papel -> protagonista, antagonista
+ ->habilidades
+ ->raza
+ ->debilidades	
+->AMBIENTES
+->LUGARES DE DESARROLLO
+->CLASIFICACION
+->AÑO DE PUBLICACION
+->CASA DE PRODUCCION
